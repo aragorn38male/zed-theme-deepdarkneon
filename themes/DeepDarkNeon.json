@@ -1,0 +1,56 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "DeepDarkNeon",
+  "author": "Rubino Marc",
+  "themes": [
+    {
+      "name": "DeepDarkNeon",
+      "appearance": "dark",
+      "style": {
+        "editor.background": "#000000",
+        "toolbar.background": "#000000",
+        "title_bar.background": "#000000",
+        "terminal.background": "#000000",
+        "tab_bar.background": "#000000",
+        "tab.active_background": "#0d0d0d",
+        "tab.inactive_background": "#1a1a1a",
+        "editor.gutter.background": "#000000",
+        "editor.foreground": "#00bfff", 
+        "terminal.foreground": "#00bfff", 
+        "panel.background": "#0d0d0d",
+        "accent": "#ff00ff", 
+        "modified": "#ff66cc", 
+        "editor.document_highlight.bracket_background": "#111111",
+        "info.background": "#0d0d0d",
+        "info.border": "#000000",
+        "warning": "#ffccff",
+        "warning.background": "#0d0d0d",
+        "warning.border": "#000000",
+        "error.background": "#0d0d0d",
+        "error.border": "#000000",
+        "players": [
+          {
+            "cursor": "#00bfff", 
+            "background": "#000000",
+            "selection": "#cc33ff"
+          }
+        ],
+        "syntax": {
+          "lifetime": {
+            "color": "#ff33cc",
+            "font_style": "italic"
+          },
+          "attribute": { "color": "#ff66ff" },
+          "keyword": { "color": "#ff00aa" },
+          "tag": { "color": "#ff00aa" },
+          "string": { "color": "#39ff14" }, 
+          "comment": { "color": "#808080", "font_style": "italic" },
+          "number": { "color": "#cc66ff" },
+          "type": { "color": "#9933ff" },
+          "constant": { "color": "#ff33f0" },
+          "property": { "color": "#ff3399" }
+        }
+      }
+    }
+  ]
+}
