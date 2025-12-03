@@ -1,0 +1,7 @@
+id = "DeepDarkNeon"
+name = "DeepDarkNeon Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["Rubino Marc <rubino.marc@gmx.com>"]
+description = "Pure black background with neon fuchsia, violet, pink, lime, and blue Rust syntax highlighting."
+repository = "https://github.com/aragorn38male/zed-theme-deepdarkneon"
