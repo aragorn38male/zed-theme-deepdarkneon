@@ -1,0 +1,9 @@
+{
+  "schema_version": "1",
+  "name": "DeepDarkNeon",
+  "version": "0.1.0",
+  "description": "Pure black background with neon fuchsia, violet, pink, lime, and blue Rust syntax highlighting.",
+  "authors": ["Rubino Marc"],
+  "repository": "https://github.com/aragorn38male/zed-theme-deepdarkneon",
+  "themes": ["themes/DeepDarkNeon.json"]
+}
